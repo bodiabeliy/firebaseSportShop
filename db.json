@@ -1,0 +1,257 @@
+{
+  "products": [
+    {
+      "image": "bag1.png",
+      "name": "Rocks Travel",
+      "price": 1900.0,
+      "article": "T1",
+      "available": 3,
+      "category": "рюкзаки",
+      "color": "white"
+    },
+    {
+      "image": "m3.png",
+      "name": "Greenhouse",
+      "price": 2000.0,
+      "article": "T2",
+      "available": 3,
+      "category": "ножи и мультитулы",
+      "color": "красный"
+    },
+    {
+      "image": "camp-3.jpg",
+      "name": "FishingPro",
+      "price": 4200.0,
+      "article": "T3",
+      "available": 3,
+      "category": "палатки",
+      "color": "white"
+    },
+    {
+      "image": "camp-4.jpg",
+      "name": "PremierGold",
+      "price": 10300.0,
+      "article": "T4",
+      "available": 3,
+      "category": "палатки",
+      "color": "white"
+    },
+    {
+      "image": "schlem3.png",
+      "name": "Sky",
+      "price": 950.0,
+      "article": "T5",
+      "available": 3,
+      "category": "шлемы",
+      "color": "white"
+    },
+    {
+      "image": "camp-6.jpg",
+      "name": "Orange",
+      "price": 3000.0,
+      "article": "T6",
+      "available": 4,
+      "category": "палатки",
+      "color": "white"
+    },
+    {
+      "image": "chair.png",
+      "name": "Hunter",
+      "price": 200.0,
+      "article": "T7",
+      "available": 4,
+      "category": "кресла",
+      "color": "white"
+    },
+    {
+      "image": "camp-8.jpg",
+      "name": "Hunter",
+      "price": 7500.0,
+      "article": "T8",
+      "available": 3,
+      "category": "палатки",
+      "color": "white"
+    },
+    {
+      "image": "bag2.png",
+      "name": "Forest",
+      "price": 700.0,
+      "article": "T9",
+      "available": 3,
+      "category": "рюкзаки",
+      "color": "black"
+    },
+    {
+      "image": "camp-10.jpg",
+      "name": "Jungle",
+      "price": 17550.0,
+      "article": "T10",
+      "available": 4,
+      "category": "палатки",
+      "color": "white"
+    },
+    {
+      "image": "schlem2.png",
+      "name": "FishingPro",
+      "price": 640.0,
+      "article": "T11",
+      "available": 3,
+      "category": "шлемы"
+        },
+    {
+      "image": "chairfish.png",
+      "name": "Bear",
+      "price": 980.0,
+      "article": "T12",
+      "available": 3,
+      "category": "кресла"
+    },
+    {
+      "image": "camp-13.jpg",
+      "name": "Rocks",
+      "price": 24000.0,
+      "article": "T13",
+      "available": 3,
+      "category": "палатки",
+      "color": "red-blue"
+      },
+    {
+      "image": "schlem1.png",
+      "name": "Rocks",
+      "price": 3600.0,
+      "article": "T14",
+      "available": 4,
+      "category": "шлемы"
+    },
+    {
+      "image": "spark.png",
+      "name": "PremierGold",
+      "price": 750.0,
+      "article": "T15",
+      "available": 3,
+      "category": "ножи и мультитулы"
+    },
+    {
+      "image": "knife2.png",
+      "name": "Colambus",
+      "price": 1575.0,
+      "article": "T16",
+      "available": 3,
+      "category": "ножи и мультитулы"
+    },
+    {
+      "image": "camp-17.jpg",
+      "name": "Greenhouse",
+      "price": 2850.0,
+      "article": "T17",
+      "available": 3,
+      "category": "палатки"
+    },
+    {
+      "image": "bag3.png",
+      "name": "Flagman",
+      "price": 510.0,
+      "article": "T18",
+      "available": 3,
+      "category": "рюкзаки"
+    },
+    {
+      "image": "camp-19.jpg",
+      "name": "PremierGold",
+      "price": 12700.0,
+      "article": "T19",
+      "available": 3,
+      "category": "палатки",
+      "color": "белый"    
+    },
+    {
+      "image": "camp-20.jpg",
+      "name": "Inly",
+      "price": 5000.0,
+      "article": "T20",
+      "available": 1,
+      "category": "палатки",
+      "color": "black"    
+    },
+    {
+      "image": "camp-21.jpg",
+      "name": "Rainforest",
+      "price": 8650.0,
+      "article": "T21",
+      "available": 2,
+      "category": "палатки"
+    },
+    {
+      "image": "knifegerb.png",
+      "name": "Garber",
+      "price": 400.0,
+      "article": "T22",
+      "available": 4,
+      "category": "ножи и мультитулы"
+    },
+    {
+      "image": "camp-23.jpg",
+      "name": "Camle",
+      "price": 6600.0,
+      "article": "T23",
+      "available": 3,
+      "category": "палатки"
+    },
+    {
+      "image": "bag4.png",
+      "name": "Richy",
+      "price": 1200.0,
+      "article": "T24",
+      "available": 1,
+      "category": "рюкзаки"
+    },
+    {
+      "image": "camp-25.jpg",
+      "name": "Jungle",
+      "price": 18150.0,
+      "article": "T25",
+      "available": 2,
+      "category": "палатки"
+    },
+    {
+      "image": "camp-26.jpg",
+      "name": "CampingLite",
+      "price": 1000.0,
+      "article": "T26",
+      "available": 3,
+      "category": "палатки"
+    },
+    {
+      "image": "camp-27.jpg",
+      "name": "Bear",
+      "price": 11000.0,
+      "article": "T27",
+      "available": 3,
+      "category": "палатки"
+    },
+    {
+      "image": "camp-28.jpg",
+      "name": "Rocks",
+      "price": 3400.0,
+      "article": "T28",
+      "available": 3,
+      "category": "палатки"
+    },
+    {
+      "image": "multy.png",
+      "name": "Colambus",
+      "price": 4450.0,
+      "article": "T29",
+      "available": 1,
+      "category": "ножи и мультитулы"
+    },
+    {
+      "image": "camp-30.jpg",
+      "name": "Outvanture",
+      "price": 4400.0,
+      "article": "T30",
+      "available": 5,
+      "category": "палатки"
+    }
+  ]
+}
